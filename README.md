@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![]()
-https://play.google.com/store/apps/details?id=com.riffsy.FBMGIFApp
+![](https://play.google.com/store/apps/details?id=com.riffsy.FBMGIFApp)
+
